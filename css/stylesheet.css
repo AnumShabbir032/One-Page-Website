@@ -248,7 +248,6 @@ p{
     width: 0;
 	background-color: crimson;
     animation: text_reveal_box 1s ease;
-    /* animation-delay: .3s; */
     animation-delay: .5s;
 }
 #hero h1:nth-child(1) span{
@@ -309,7 +308,6 @@ p{
     margin-top: 50px;
 }
 #services .service-items{
-    /* border: solid; */
     flex-basis: 80%;
     display: flex;
     align-items: flex-start;
